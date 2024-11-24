@@ -1,0 +1,57 @@
+[
+  {
+    "routerLink": "/product1",
+    "img": "assets/images/cable.jpeg",
+    "name": "Power Cable",
+    "price": "$100"
+  },
+  {
+    "routerLink": "/product2",
+    "img": "assets/images/cable.jpeg",
+    "name": "Solar Cable",
+    "price": "$120"
+  },
+  {
+    "routerLink": "/product3",
+    "img": "assets/images/cable.jpeg",
+    "name": "General Wiring & Cable",
+    "price": "$90"
+  },
+  {
+    "routerLink": "/product4",
+    "img": "assets/images/cable.jpeg",
+    "name": "Data & Network Cable",
+    "price": "$110"
+  },
+  {
+    "routerLink": "/product5",
+    "img": "assets/images/cable.jpeg",
+    "name": "Data & Network Cable",
+    "price": "$110"
+  },
+  {
+    "routerLink": "/product6",
+    "img": "assets/images/cable.jpeg",
+    "name": "Data & Network Cable",
+    "price": "$110"
+  },
+  {
+    "routerLink": "/product7",
+    "img": "assets/images/cable.jpeg",
+    "name": "Data & Network Cable",
+    "price": "$110"
+  },
+  {
+    "routerLink": "/product8",
+    "img": "assets/images/cable.jpeg",
+    "name": "Data & Network Cable",
+    "price": "$110"
+  },
+  {
+    "routerLink": "/product9",
+    "img": "assets/images/cable.jpeg",
+    "name": "Data & Network Cable",
+    "price": "$110"
+  }
+ 
+]

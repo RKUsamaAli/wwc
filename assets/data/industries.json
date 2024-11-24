@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Automobile",
+    "url": "/industries/automobile",
+    "slug": "automobile"
+  },
+  {
+    "id": 2,
+    "title": "Construction",
+    "url": "/industries/construction",
+    "slug": "construction"
+  },
+  {
+    "id": 3,
+    "title": "Home & Office",
+    "url": "/industries/home-and-office",
+    "slug": "home-and-office"
+  },
+  {
+    "id": 4,
+    "title": "Solar & Renewable",
+    "url": "/industries/solar-and-renewable",
+    "slug": "solar-and-renewable"
+  },
+  {
+    "id": 5,
+    "title": "Security & Surveillance",
+    "url": "/industries/security-and-surveillance",
+    "slug": "security-and-surveillance"
+  },
+  {
+    "id": 6,
+    "title": "Consumer Electronics",
+    "url": "/industries/consumer-electronics",
+    "slug": "consumer-electronics"
+  },
+  {
+    "id": 7,
+    "title": "IT & Data Centers",
+    "url": "/industries/it-and-data-center",
+    "slug": "it-and-data-center"
+  },
+  {
+    "id": 8,
+    "title": "Automation",
+    "url": "/industries/automation",
+    "slug": "automation"
+  },
+  {
+    "id": 9,
+    "title": "Food & Beverage",
+    "url": "/industries/food-and-beverage",
+    "slug": "food-and-beverage"
+  },
+  {
+    "id": 10,
+    "title": "Pharmaceutical",
+    "url": "/industries/pharmaceutical",
+    "slug": "pharmaceutical"
+  },
+  {
+    "id": 11,
+    "title": "Industries",
+    "url": "/industries/industries",
+    "slug": "industries"
+  }
+]
