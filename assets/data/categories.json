@@ -2,9 +2,15 @@
   {
     "title": "Solar Cables",
     "image": "solar-cable.jpg",
-    "headerImage": "header-power-cables.jpg",
+    "headerImage": "solar-header.jpg",
     "url": "/cable-wires/solar-cables",
     "slug": "solar-cables",
+    "images": [
+      "solar-image-1.jpg",
+      "solar-image-2.jpg",
+      "solar-image-3.jpg",
+      "solar-image-4.jpg"
+    ],
     "detail": "<div><p>Solar energy systems operate by capturing sunlight and converting it into direct current (DC) electricity through solar panels. When sunlight interacts with solar cells, it excites electrons, generating an electric current. This DC electricity is transmitted via solar cables to inverters, where it is converted into alternating current (AC) electricity, suitable for powering homes, businesses, and industries. Solar cables play a critical role in transmitting electricity from the panels to the system, enabling efficient and reliable use of solar energy across various applications.<p><strong>Worldwide Cables (Pvt) Limited</strong> is proud to offer premium-quality solar cables, trusted by customers worldwide for their exceptional performance and reliability. Designed for maximum efficiency, these cables feature:<ul><li><strong>Tinned, flexible copper conductors:</strong> Ensuring superior conductivity with 99.99% pure copper for efficient current flow and enhanced durability in moist and polluted environments. Plain flexible copper conductors also available upon request.<li><strong>XLPO insulation and sheath:</strong> Providing excellent resistance to high temperatures (up to 125°C), ozone, and UV rays, while maintaining flexibility and robustness under harsh conditions. XLPE insulation and LSZH sheath options are also availbe.<li><strong>LSZH properties:</strong> The XLPO material is Low Smoke Zero Halogen, offering superior safety during fire incidents by minimizing toxic fume emissions.</ul><p>Manufactured and rigorously tested according to international standards (BS EN 50618 and IEC 62930), <strong>Worldwide solar cables</strong> deliver durability and safety, making them ideal for long-term outdoor use in demanding environments. Available in conductor sizes of 4 mm², 6 mm², and 10 mm², these cables cater to a variety of installation requirements, ensuring seamless integration into any solar energy system. Bigger conductor sizes up to 35 mm2 cables are also available.<br>Choose Worldwide Cables for a dependable and efficient solar energy solution.</div>"
   },
   {
